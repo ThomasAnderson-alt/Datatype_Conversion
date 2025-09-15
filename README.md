@@ -1,6 +1,7 @@
 # Datatype Conversion 🛠️
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=white&style=flat-square)
 ![JSON](https://img.shields.io/badge/JSON-Supported-brightgreen?logo=json&logoColor=white&style=flat-square)
 
 ---
