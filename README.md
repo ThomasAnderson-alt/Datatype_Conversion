@@ -1,9 +1,7 @@
 # Datatype Conversion 🛠️
 
-![License](https://img.shields.io/github/license/ThomasAnderson-alt/Datatype_Conversion?style=flat-square)
-![Stars](https://img.shields.io/github/stars/ThomasAnderson-alt/Datatype_Conversion?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/ThomasAnderson-alt/Datatype_Conversion?style=flat-square)
-![Issues](https://img.shields.io/github/issues/ThomasAnderson-alt/Datatype_Conversion?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white&style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-Supported-brightgreen?logo=json&logoColor=white&style=flat-square)
 
 ---
 
